@@ -1,0 +1,9 @@
+D:\Code\MediaSync\MediaSync\bin\Debug\MediaSync.exe
+D:\Code\MediaSync\MediaSync\bin\Debug\MediaSync.pdb
+D:\Code\MediaSync\MediaSync\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Code\MediaSync\MediaSync\obj\x86\Debug\MediaSync.Main.resources
+D:\Code\MediaSync\MediaSync\obj\x86\Debug\MediaSync.Properties.Resources.resources
+D:\Code\MediaSync\MediaSync\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Code\MediaSync\MediaSync\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Code\MediaSync\MediaSync\obj\x86\Debug\MediaSync.exe
+D:\Code\MediaSync\MediaSync\obj\x86\Debug\MediaSync.pdb
